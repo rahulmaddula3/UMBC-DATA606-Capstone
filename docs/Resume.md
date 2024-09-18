@@ -1,7 +1,7 @@
 
 # Sai Rahul Maddula
 
-![Headshot](image.jpeg)  
+<img src="IMG_2700.heic" alt="Passport Picture" width="150" />
 
 ---
 
