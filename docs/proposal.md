@@ -47,7 +47,7 @@ Flight prices fluctuate based on several factors, including demand, time of day,
 | Class              | Categorical | Class of the flight                        |
 | Duration           | Numeric     | Duration of the flight in hours            |
 | Days Left          | Numeric     | Days left until the departure              |
-| Price              | Numeric     | Flight price in INR                        |
+| Price              | Numeric     | Flight price                               |
 
 ### Detailed Descriptions
 
