@@ -3,8 +3,8 @@
 ## 1. Title and Author
 - **Project Title:** FlyPrice: Analyzing and Forecasting Flight Fares
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
-- **Author Name:** Rahul Maddula
-- **GitHub Repository:** [Add Link]
+- **Author Name:** Sai Rahul Maddula
+- **GitHub Repository:** [https://github.com/rahulmaddula3/UMBC-DATA606-Capstone]
 - **LinkedIn Profile:** [Add Link]
 - **PowerPoint Presentation:** [Add Link]
 - **YouTube Video:** [Add Link]
