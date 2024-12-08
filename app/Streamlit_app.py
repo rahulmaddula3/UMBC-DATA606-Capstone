@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load the trained model pipeline, including the preprocessor
-model = joblib.load("/Users/rahulmaddula/Downloads/gradient_boosting_regressor_model.pkl")
+model = joblib.load("app/gradient_boosting_regressor_model.pkl")
 
 # Set up the app title and description
 st.title("Flight Fare Prediction")
