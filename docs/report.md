@@ -6,7 +6,7 @@
 - **Author Name:** Sai Rahul Maddula
 - **GitHub Repository:** [https://github.com/rahulmaddula3/UMBC-DATA606-Capstone]
 - **LinkedIn Profile:** [Add Link]
-- **PowerPoint Presentation:** [Add Link]
+- **PowerPoint Presentation:** [docs/Capstone_Presentation.pptx]
 - **YouTube Video:** [Add Link]
 
 ---
