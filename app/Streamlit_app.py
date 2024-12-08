@@ -1,3 +1,9 @@
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+
+import joblib
 import streamlit as st
 import joblib
 import pandas as pd
