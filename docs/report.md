@@ -5,8 +5,8 @@
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author Name:** Sai Rahul Maddula
 - **GitHub Repository:** [https://github.com/rahulmaddula3/UMBC-DATA606-Capstone]
-- **LinkedIn Profile:** [Add Link]
-- **PowerPoint Presentation:** [docs/Capstone_Presentation.pptx]
+- **LinkedIn Profile:** [https://www.linkedin.com/in/rahul-maddula-b6008117a/]
+- **PowerPoint Presentation:** [https://github.com/rahulmaddula3/UMBC-DATA606-Capstone/blob/main/docs/Capstone_Presentation.pptx] 
 - **YouTube Video:** [Add Link]
 
 ---
@@ -155,15 +155,32 @@ This chart highlights the most expensive flight routes in the dataset. The route
 ---
 
 ## 7. Conclusion
+
 - **Summary:**
-  - Successfully predicted flight prices with high accuracy.
-  - Identified `airline` and `days_left` as the most significant predictors.
+  - The FlyPrice project successfully developed a machine learning-based predictive model to forecast flight fares with high accuracy.
+  - The Gradient Boosting Regressor emerged as the best-performing model, achieving the highest R² score and lowest Mean Squared Error (MSE) among the tested models.
+  - Key features like `airline`, `days_left`, and `number of stops` were identified as the most significant predictors of ticket prices.
+  - The predictive model effectively captured complex relationships in the data, providing reliable fare estimates.
+
+- **Real-World Application:**
+  - A Streamlit web application was created to demonstrate the practical use of the model. The user-friendly interface allows travelers to input flight-related parameters (e.g., source, destination, class, days left) and receive predicted fares instantly.
+  - This application makes fare predictions accessible to users, enabling cost-effective booking decisions and empowering businesses with actionable insights.
+
 - **Limitations:**
-  - Limited to a specific region and dataset.
-  - Doesn’t account for real-time price changes.
-- **Future Research:**
-  - Incorporating real-time data scraping.
-  - Adding features like passenger demand and seasonal trends.
+  - **Data Coverage:** The dataset used in this study is limited to a specific region and may not capture global pricing trends or all possible flight routes.
+  - **Real-Time Changes:** The model does not account for real-time fare fluctuations influenced by last-minute demand surges or promotional discounts.
+  - **Feature Constraints:** Factors like weather, holiday seasons, and passenger demand—key contributors to airfare variations—were not included in the analysis.
+
+- **Future Research and Improvements:**
+  - **Incorporating External Data:** Adding real-time information on holidays, weather, and passenger demand can improve prediction accuracy by capturing seasonal and situational trends.
+  - **Model Deployment:** Develop a fully integrated real-time fare prediction tool accessible via web and mobile platforms to provide dynamic pricing information to users.
+  - **Broader Dataset:** Expanding the dataset to include flights from different regions, additional airlines, and longer time periods will make the model more robust and applicable on a global scale.
+  - **Advanced Algorithms:** Exploring advanced algorithms such as neural networks or hybrid models could further enhance the predictive power and adaptability of the system.
+
+- **Conclusion:**
+  - FlyPrice has laid the groundwork for building an effective and scalable flight fare prediction system. By leveraging historical data and machine learning, the project not only provides travelers with valuable pricing insights but also opens avenues for further research and innovation in the travel and airline industries.
+  - With future improvements, FlyPrice has the potential to become a powerful tool for real-time fare prediction, catering to a global audience and contributing to smarter decision-making in air travel.
+
 
 ---
 
