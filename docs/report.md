@@ -7,7 +7,7 @@
 - **GitHub Repository:** [https://github.com/rahulmaddula3/UMBC-DATA606-Capstone]
 - **LinkedIn Profile:** [https://www.linkedin.com/in/rahul-maddula-b6008117a/]
 - **PowerPoint Presentation:** [https://github.com/rahulmaddula3/UMBC-DATA606-Capstone/blob/main/docs/Capstone_Presentation.pptx] 
-- **YouTube Video:** [Add Link]
+- **YouTube Video:** [https://youtu.be/KeqXY0pg1Ho]
 
 ---
 
